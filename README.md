@@ -7,16 +7,22 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-3178C6?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR-Tesseract%20%7C%20Vision%20API-FFB000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-NestJS%20%7C%20TypeScript-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Auth-Yule%20Auth-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20Nginx-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storage-S3%20Compatible-569A31?style=flat-square" />
+  <img src="https://img.shields.io/badge/OCR-Tesseract.js%20%7C%20Vision%20Provider-FFB000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Auth-Yule%20Auth%20%7C%20JWT-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Storage-Local%20File%20Storage-569A31?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Monorepo-pnpm%20Workspace-F69220?style=flat-square&logo=pnpm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Package%20Manager-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
 </p>
 
